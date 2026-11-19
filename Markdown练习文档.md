@@ -46,7 +46,7 @@
 
 我是一个害羞的图片，不要碰我
 
-[![笃信好学，自然宽和](C:\Users\Zhang CY\Pictures\e1efcba4c40c15926c5427d0a85d1ae2.jpg)](https://www.scuec.edu.cn/)
+[![笃信好学，自然宽和](images/e1efcba4c40c15926c5427d0a85d1ae2.jpg)](https://www.scuec.edu.cn/)
 
 ~~我要删除我自己~(bushi)~~
 
