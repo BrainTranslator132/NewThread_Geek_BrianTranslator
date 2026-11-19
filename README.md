@@ -1,0 +1,2 @@
+# NewThread_Geek_BrianTranslator
+用于存储在新思路实验室学习的记录
