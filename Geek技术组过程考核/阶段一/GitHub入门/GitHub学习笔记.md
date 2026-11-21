@@ -37,5 +37,17 @@
  > #### A4.2: 自拟的规范，Q:3级标题,A:4级标题
 创建 Profile README 仓库，美化你的 GitHub 主页
 
-参考至少 2 个优秀的 GitHub Profile README(并给出对应的参考链接🔗)
-记录📝在你的学习笔记中记录你参考了哪些案例，学到了什么技巧
+### Q5:Github profile README参考
+
+> #### A5:这是教程
+>
+> 1. [Peter-JXL (peter) / October 2026](https://github.com/Peter-JXL?tab=overview&from=2026-10-01&to=2026-10-31)
+>
+> #### A5:下面两个是链接
+>
+> 1. [Peter-JXL/README.md at main · Peter-JXL/Peter-JXL](https://github.com/Peter-JXL/Peter-JXL/blob/main/README.md)
+>
+> 2. [returnToInnocence (Hongjun)](https://github.com/returnToInnocence)
+> 3. 渡学长的好难。。。
+
+
