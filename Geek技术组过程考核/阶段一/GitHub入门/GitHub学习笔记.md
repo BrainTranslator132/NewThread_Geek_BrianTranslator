@@ -1,4 +1,4 @@
-##Q&A
+## Q&A
 ### Q1: 你觉得什么是 Geek ，什么又是 Geek 精神？
 
 > #### A1.1: geek？
@@ -26,7 +26,7 @@
 ### Q3: 有学长当年光是打开 GitHub 网站就花了半天，你有过类似经历吗？ 不管有没有，说说你的判断
 > #### A3.1:有,
 > 之前注册时候连GitHub都进不去,知道是国外网站即是国内可以直连也不稳定,像steam一样,要挂加速器,但舍不得花钱,但几经搜索,蓦然回首,那人却在steam++(现Watt Toolkit)处
-> #### A3.2:vpn\网络代理\中国防火墙,又是一大堆网页,上面已经说清储了
+> #### A3.2:vpn\网络代理\中国防火墙,又是一大堆网页,我的判断就是是上面的，下面就是探究底层原理了
 > 参考文献:
 > 1. [库库AI](https://kuku.baidu.com/app?_at_=1795101275129#/workbench/new-task?md5=3efcc99cdb9513ffaeb18d7939cef09e)
 > 2. [梯子是什么？梯子、VPN、机场、代理的关系｜机场E家](https://ejichang.cc/knowledge/ladder-vpn-airport-relationship/)
